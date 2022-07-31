@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.thunder413:DateTimeUtils:3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1ba5de9f247c12d388540e8e5e232b5b/transformed/jetified-DateTimeUtils-3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1ba5de9f247c12d388540e8e5e232b5b/transformed/jetified-DateTimeUtils-3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1ba5de9f247c12d388540e8e5e232b5b/transformed/jetified-DateTimeUtils-3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.thunder413/DateTimeUtils/3.0/fb6de6c10d8b219a6f2c8185210dfa950bbdd524/DateTimeUtils-3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

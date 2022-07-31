@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SocialMedia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="already_an_user_click_here_to_login">Already an user? Click here to Login</string>
+    <string name="signup">Signup</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="iiitdmj_socialmedia">iiitdmj SocialMedia</string>
+    <string name="prfile">profile</string>
+    <string name="profile">profile</string>
+    <string name="Search">Search</string>
+    <string name="ChatRoom" />
+    <string name="post">Post</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SocialMedia.iml" filepath="$PROJECT_DIR$/.idea/modules/SocialMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SocialMedia.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SocialMedia.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SocialMedia.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SocialMedia.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SocialMedia.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SocialMedia.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SocialMedia.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SocialMedia.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
